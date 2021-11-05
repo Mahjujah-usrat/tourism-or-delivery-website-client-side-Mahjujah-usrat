@@ -9,7 +9,7 @@ const MyOrder = () => {
   const [control, setControl] = useState(false);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/myOrder/${user?.email}`)
+    fetch(`https://mighty-plateau-69257.herokuapp.com/myOrder/${user?.email}`)
       .then((res) => res.json())
       .then((data) => setOrders(data));
   }, [user.email, control]);
@@ -17,7 +17,7 @@ const MyOrder = () => {
   const handleDelete = (id) => {
     const confirmation = window.confirm("Are you sure to confirm!");
     if (confirmation) {
-      fetch(`http://localhost:5000/deleteOrder/${id}`, {
+      fetch(`https://mighty-plateau-69257.herokuapp.com/deleteOrder/${id}`, {
         method: "DELETE",
       })
         .then((res) => res.json())

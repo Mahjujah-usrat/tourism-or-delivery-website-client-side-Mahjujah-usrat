@@ -16,7 +16,7 @@ const AddService = () => {
     const description = desRef.current.value;
     const newService = { name, rooms, price, img, description };
 
-    fetch("http://localhost:5000/addservice", {
+    fetch("https://mighty-plateau-69257.herokuapp.com/addservice", {
       method: "POST",
       headers: {
         "content-type": "application/json",

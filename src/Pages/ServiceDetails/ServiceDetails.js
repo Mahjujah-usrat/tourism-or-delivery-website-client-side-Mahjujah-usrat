@@ -43,7 +43,7 @@ const ServiceDetails = () => {
     delete selected._id;
     selected.status = "Pending";
     // console.log('button working');
-    fetch(`http://localhost:5000/addOrder`, {
+    fetch(`https://mighty-plateau-69257.herokuapp.com/addOrder`, {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(selected),
