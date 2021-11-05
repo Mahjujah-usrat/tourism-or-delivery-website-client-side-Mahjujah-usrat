@@ -1,0 +1,10 @@
+.img-style img {
+    height: 750px;
+}
+
+/* Mobile Responsive */
+@media only screen and (max-width: 600px) {
+    .img-style img {
+        height: 100%;
+    }
+}

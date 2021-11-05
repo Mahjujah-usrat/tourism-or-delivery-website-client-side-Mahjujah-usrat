@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Junior Suite",
+        "rooms": "1 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, the two-bedroom King Suites welcome you to a 100 to 110 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer 2 king beds and deluxe amenities including a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/P6dDQ9F/room-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Business King",
+        "rooms": "4 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, Honeymoon Suites welcome you to a 75 to 85 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer king bed and deluxe amenities including a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/T1Fn7m9/room-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Deluxe Suite",
+        "rooms": "5 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, Deluxe Suites welcome you to a 60 to 65 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer king bed or twin beds with deluxe amenities including a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/fXB6gtX/room-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Family Suite",
+        "rooms": "2 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, Family Suites welcome you to a 70 to 75 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer king bed and a special children nest. Deluxe amenities include a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/V2x00dw/room-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Honeymoon Suite",
+        "rooms": "2 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, Honeymoon Suites welcome you to a 75 to 85 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer king bed and deluxe amenities including a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/b550CHH/room-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "King Suite",
+        "rooms": "3 GUESTS",
+        "price": "150",
+        "description": "Located on the 1st and 2nd floors with the garden and city view, the two-bedroom King Suites welcome you to a 100 to 110 sq m room offering modern and elegant settings. Decorated in warm earthy colors, the rooms offer 2 king beds and deluxe amenities including a kitchen counter, dining table for four, large cabinet, dressing table with mirror, living area with flat-screen TV for 4 to 6 people and bathroom with shower.",
+        "img": "https://i.ibb.co/Yjwc3Fq/room-6.jpg"
+    }
+]

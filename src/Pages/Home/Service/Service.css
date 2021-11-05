@@ -1,0 +1,24 @@
+.service {
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+.service img {
+    width: 100%;
+}
+
+.btn-style {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 30px;
+    background-color: #C19B77;
+    color: #b4b4b4;
+    border: 3px solid #C19B77;
+    border-radius: 5px;
+}
+
+.btn-style:hover {
+    background-color: #C19B77;
+    color: #1C1C1C;
+
+}
